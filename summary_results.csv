@@ -1,0 +1,2 @@
+Original Size (bytes),Compressed Size (bytes),Decompressed Size (bytes),Avg Encode Time (ns/byte),Avg Decode Time (ns/byte),Memory Used (MB)
+1000000000,648369793,1000000000,445,85,663,33,2

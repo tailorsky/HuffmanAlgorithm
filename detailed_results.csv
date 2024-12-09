@@ -1,0 +1,2 @@
+Iteration,Original Size (bytes),Compressed Size (bytes),Decompressed Size (bytes),Encode Time (ns),Decode Time (ns),Encode Time (ns/byte),Decode Time (ns/byte),Memory Used (MB)
+1,1000000000,648369793,1000000000,445854984800,430082586000,445,85,663,33,2
