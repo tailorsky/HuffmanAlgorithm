@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class TestMain {
     public static void main(String[] args) {
-        fileCodecDigitalTest("example.png", "shhhh.huf", "shhhhdecoded.jpg");
+        fileCodecDigitalTest("input.txt", "output.huf", "output.txt");
     }
 
     public static void fileCodecDigitalTest(String filePath, String huffmanFilePath, String decodedFilePath) {
