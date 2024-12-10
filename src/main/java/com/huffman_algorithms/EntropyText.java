@@ -42,7 +42,7 @@ public class EntropyText {
         double entropy = 0.0;
         for (Map.Entry<Character, Integer> entry : frequencyMap.entrySet()) {
             double probability = (double) entry.getValue() / totalChars;
-            entropy -= probability * (Math.log(probability) / Math.log(2)); // Используем log2
+            entropy -= probability * (Math.log(probability) / Math.log(2));
         }
 
         return entropy;
